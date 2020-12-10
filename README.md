@@ -7,11 +7,13 @@ These scripts use the generic datacenter objects introduced in Check Point versi
 |----------|-----------------------|
 | IBM Cloud VPC Gen 2 | ibmcloud_vpc_datacenter.sh | 
 <br>
+
 ## Usage
-Add Datacenter Region: <br> 
+
+### Add Datacenter Region: <br> 
 ./datacenter_controller.sh -add ibm --region us-south --url /var/tmp/ibm-us-south.json -p /var/tmp/ibmcloud_vpc_datacenter.sh --interval 120 <br>
 <br>
-Delete Datacenter Region:<br>
+### Delete Datacenter Region:<br>
 ./datacenter_controller.sh -delete ibm --region us-south --url /var/tmp/ibm-us-south.json <br>
 
 
