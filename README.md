@@ -7,6 +7,7 @@ These scripts use the generic datacenter objects introduced in Check Point versi
 |----------|-----------------------|
 | IBM Cloud VPC Gen 2 | ibmcloud_vpc_datacenter.sh | 
 | Digital Ocean | digitalocean_datacenter.sh |
+| Yandex RU Cloud | yandex_datacenter.sh |
 <br>
 
 ## Usage
